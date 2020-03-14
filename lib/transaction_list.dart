@@ -1,9 +1,1 @@
-import 'package:flutter/cupertino.dart';
-
-class TransactionList extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-
-    return ;
-  }
-}
+// TODO Implement this library.
